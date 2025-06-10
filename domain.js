@@ -11,12 +11,8 @@
     { "domain": "德国Webfreecloud", "registrationDate": "2025-06-10", "expirationDate": "2025-07-12", "system": "eu.org", "systemURL": "123" },
    { "domain": "新加坡Webfreecloud", "registrationDate": "2025-06-10", "expirationDate": "2025-06-15", "system": "eu.org", "systemURL": "123" },
    { "domain": "荷兰Webfreecloud", "registrationDate": "2025-06-10", "expirationDate": "2025-07-05", "system": "eu.org", "systemURL": "123" },
-     { "domain": "英国Webfreecloud", "registrationDate": "2025-06-10", "expirationDate": "2025-07-05", "system": "eu.org", "systemURL": "123" },
-    { "domain": "美国Webfreecloud", "registrationDate": "2025-07-12", "expirationDate": "2025-08-11", "system": "eu.org", "systemURL": "123" },
-    { "domain": "德国Webfreecloud", "registrationDate": "2025-07-12", "expirationDate": "2025-08-11", "system": "eu.org", "systemURL": "123" },
-   { "domain": "新加坡Webfreecloud", "registrationDate": "2025-06-15", "expirationDate": "2025-07-14", "system": "eu.org", "systemURL": "123" },
-   { "domain": "荷兰Webfreecloud", "registrationDate": "2025-07-05", "expirationDate": "2025-08-04", "system": "eu.org", "systemURL": "123" },
-     { "domain": "英国Webfreecloud", "registrationDate": "2025-07-05", "expirationDate": "2025-08-04", "system": "eu.org", "systemURL": "123" }
+     { "domain": "英国Webfreecloud", "registrationDate": "2025-06-10", "expirationDate": "2025-07-05", "system": "eu.org", "systemURL": "123" }
+
     
   
 ]
