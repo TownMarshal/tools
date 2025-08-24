@@ -10,6 +10,8 @@
   { "domain": "tangshuai.ip-ddns.com", "registrationDate": "2025-04-28", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },
   { "domain": "tangning.ip-ddns.com", "registrationDate": "2025-04-28", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },
   { "domain": "townmarshal.ip-ddns.com", "registrationDate": "2025-04-28", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },  
+    { "domain": "an.cloudns.pro", "registrationDate": "2025-08-24", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },  
+    { "domain": "bao.cloudns.pro", "registrationDate": "2025-08-24", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },  
   { "domain": "bao.hidns.co", "registrationDate": "2025-07-01", "expirationDate": "2099-12-31", "system": "hidoha.net", "systemURL": "https://www.hidoha.net/" },
   { "domain": "bao.hidns.vip", "registrationDate": "2025-07-01", "expirationDate": "2099-12-31", "system": "hidoha.net", "systemURL": "https://www.hidoha.net/" }
  
