@@ -2,12 +2,21 @@
 
   { "domain": "baozong.ip-ddns.com", "registrationDate": "2025-04-28", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },
   { "domain": "baozong.dpdns.org", "registrationDate": "2025-04-25", "expirationDate": "2026-04-25", "system": "DigitalPlat", "systemURL": "https://dash.domain.digitalplat.org" },
-   { "domain": "bablo.dpdns.org", "registrationDate": "2025-12-20", "expirationDate": "2026-12-20", "system": "DigitalPlat", "systemURL": "https://dash.domain.digitalplat.org" },
+  { "domain": "bablo.dpdns.org", "registrationDate": "2025-12-20", "expirationDate": "2026-12-20", "system": "DigitalPlat", "systemURL": "https://dash.domain.digitalplat.org" },
   { "domain": "town95.dpdns.org", "registrationDate": "2025-04-25", "expirationDate": "2026-04-25", "system": "DigitalPlat", "systemURL": "https://dash.domain.digitalplat.org" },
   { "domain": "town.xx.kg", "registrationDate": "2025-05-05", "expirationDate": "2026-05-05", "system": "DigitalPlat", "systemURL": "https://dash.domain.digitalplat.org" },
   { "domain": "an.cloudns.pro", "registrationDate": "2025-08-24", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },  
   { "domain": "bao.cloudns.pro", "registrationDate": "2025-08-24", "expirationDate": "2099-12-31", "system": "cloudns", "systemURL": "https://www.cloudns.net/" },  
   { "domain": "bao.hidns.co", "registrationDate": "2025-07-01", "expirationDate": "2099-12-31", "system": "hidoha.net", "systemURL": "https://www.hidoha.net/" },
   { "domain": "bao.hidns.vip", "registrationDate": "2025-07-01", "expirationDate": "2099-12-31", "system": "hidoha.net", "systemURL": "https://www.hidoha.net/" },
+  { "domain": "bao.cc.cd", "registrationDate": "2025-11-30", "expirationDate": "2099-12-31", "system": "my.dnshe.com", "systemURL": "https://my.dnshe.com/index.php?m=domain_hub" },
+  { "domain": "bao.us.ci", "registrationDate": "2025-11-18", "expirationDate": "2099-12-31", "system": "my.dnshe.com", "systemURL": "https://my.dnshe.com/index.php?m=domain_hub" },
+  { "domain": "bao.ccwu.cc", "registrationDate": "2025-8-21", "expirationDate": "2099-12-31", "system": "my.dnshe.com", "systemURL": "https://my.dnshe.com/index.php?m=domain_hub" },
+  { "domain": "an.de5.net", "registrationDate": "2025-8-20", "expirationDate": "2099-12-31", "system": "my.dnshe.com", "systemURL": "https://my.dnshe.com/index.php?m=domain_hub" },
+  { "domain": "an.ccwu.cc", "registrationDate": "2025-8-20", "expirationDate": "2099-12-31", "system": "my.dnshe.com", "systemURL": "https://my.dnshe.com/index.php?m=domain_hub" },
+  { "domain": "bao.gv.uy", "registrationDate": "2025-12-5", "expirationDate": "2099-12-5", "system": "gv.uy", "systemURL": "https://nic.i8.al/login" },
+  { "domain": "tits.eu.cc", "registrationDate": "2026-1-27", "expirationDate": "2027-1-27", "system": "gname.vip", "systemURL": "https://www.gname.vip/user#/admin_ym" },
+  { "domain": "blkb.eu.cc", "registrationDate": "2026-1-27", "expirationDate": "2027-1-27", "system": "gname.vip", "systemURL": "https://www.gname.vip/user#/admin_ym" },
+  { "domain": "yust.eu.cc", "registrationDate": "2026-1-27", "expirationDate": "2027-1-27", "system": "gname.vip", "systemURL": "https://www.gname.vip/user#/admin_ym" },
   { "domain": "yust.eu.org", "registrationDate": "2023-05-21", "expirationDate": "2030-05-21", "system": "eu.org", "systemURL": "https://nic.eu.org" }
 ]
