@@ -10,6 +10,5 @@
   { "domain": "bao.hidns.co", "registrationDate": "2025-07-01", "expirationDate": "2099-12-31", "system": "hidoha.net", "systemURL": "https://www.hidoha.net/" },
   { "domain": "bao.hidns.vip", "registrationDate": "2025-07-01", "expirationDate": "2099-12-31", "system": "hidoha.net", "systemURL": "https://www.hidoha.net/" },
   { "domain": "town.netlib.re", "registrationDate": "2025-07-01", "expirationDate": "2099-12-31", "system": ".netlib.re", "systemURL": "https://www.netlib.re/" },
-  { "domain": "yust.eu.org", "registrationDate": "2023-05-21", "expirationDate": "2030-05-21", "system": "eu.org", "systemURL": "https://nic.eu.org" },
-  { "domain": "towt.nyc.mn", "registrationDate": "2025-11-28", "expirationDate": "2035-11-28", "system": "publiczone.org", "systemURL": "http://publiczone.org/" }
+  { "domain": "yust.eu.org", "registrationDate": "2023-05-21", "expirationDate": "2030-05-21", "system": "eu.org", "systemURL": "https://nic.eu.org" }
 ]
