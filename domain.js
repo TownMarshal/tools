@@ -19,10 +19,5 @@
   { "domain": "tits.eu.cc", "registrationDate": "2026-1-27", "expirationDate": "2027-1-27", "system": "gname.vip", "systemURL": "https://www.gname.vip/user#/admin_ym" },
   { "domain": "blkb.eu.cc", "registrationDate": "2026-1-27", "expirationDate": "2027-1-27", "system": "gname.vip", "systemURL": "https://www.gname.vip/user#/admin_ym" },
   { "domain": "yust.eu.cc", "registrationDate": "2026-1-27", "expirationDate": "2027-1-27", "system": "gname.vip", "systemURL": "https://www.gname.vip/user#/admin_ym" },
-  // { "domain": "bao.us.eu.org", "registrationDate": "2026-04-09", "expirationDate": "2030-04-09", "system": "eu.org", "systemURL": "https://nic.eu.org" },
-  // { "domain": "ning.us.eu.org", "registrationDate": "2026-04-09", "expirationDate": "2030-04-09", "system": "eu.org", "systemURL": "https://nic.eu.org" },
-  // { "domain": "tom.us.eu.org", "registrationDate": "2026-04-09", "expirationDate": "2030-04-09", "system": "eu.org", "systemURL": "https://nic.eu.org" },
-  // { "domain": "ning.cn.eu.org", "registrationDate": "2026-04-09", "expirationDate": "2030-04-09", "system": "eu.org", "systemURL": "https://nic.eu.org" },
-  // { "domain": "sam.cn.eu.org", "registrationDate": "2026-04-09", "expirationDate": "2030-04-09", "system": "eu.org", "systemURL": "https://nic.eu.org" },
   { "domain": "yust.eu.org", "registrationDate": "2023-05-21", "expirationDate": "2030-05-21", "system": "eu.org", "systemURL": "https://nic.eu.org" }
 ]
